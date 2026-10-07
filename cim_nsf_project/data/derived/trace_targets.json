@@ -1,0 +1,263 @@
+[
+ {
+  "pid": "NSF-93463",
+  "tier": "T1",
+  "year": 2018,
+  "route": "不綁定元件",
+  "maturity": "晶片流片",
+  "inst": "Green Mountain Semiconductor, Inc.",
+  "title": "SBIR Phase II: In-Memory Artificial Neural Network"
+ },
+ {
+  "pid": "NSF-100085",
+  "tier": "T1",
+  "year": 2018,
+  "route": "電阻式記憶體",
+  "maturity": "晶片流片",
+  "inst": "Georgia Tech Research Corporation",
+  "title": "CAREER: Scaling-up Resistive Synaptic Arrays for Neuro-inspired Computing"
+ },
+ {
+  "pid": "NSF-91603",
+  "tier": "T1",
+  "year": 2018,
+  "route": "不綁定元件",
+  "maturity": "電路實測",
+  "inst": "The University of Central Florida Board of Trustees | SUNY Polytechnic Institute",
+  "title": "SPX: Collaborative Research: Automated Synthesis of Extreme-Scale Computing Systems Using Non-Volatile Memory"
+ },
+ {
+  "pid": "NSF-99203",
+  "tier": "T1",
+  "year": 2019,
+  "route": "不綁定元件",
+  "maturity": "電路實測",
+  "inst": "Regents of the University of Michigan - Ann Arbor",
+  "title": "FET: Medium: Memory Processing Unit (MPU) - An Efficient, Reconfigurable In-memory Computing Fabric"
+ },
+ {
+  "pid": "NSF-110407",
+  "tier": "T1",
+  "year": 2020,
+  "route": "成熟製程記憶體",
+  "maturity": "晶片流片",
+  "inst": "Anaflash Inc.",
+  "title": "SBIR Phase II: Logic compatible non-volatile neural network accelerator using analog compute-in-memory architecture"
+ },
+ {
+  "pid": "NSF-117046",
+  "tier": "T1",
+  "year": 2020,
+  "route": "電阻式記憶體",
+  "maturity": "電路實測",
+  "inst": "University of Massachusetts Amherst",
+  "title": "Collaborative Research: ASCENT: 3D memristor convolutional kernels with diffusive memristor based reservoir for real-time machine learning"
+ },
+ {
+  "pid": "NSF-130805",
+  "tier": "T1",
+  "year": 2021,
+  "route": "電阻式記憶體",
+  "maturity": "電路實測",
+  "inst": "University of Massachusetts Amherst",
+  "title": "NSF-AoF: FET: Small: Ubiquitous in-sensor computing for adaptive intelligent systems"
+ },
+ {
+  "pid": "NSF-129873",
+  "tier": "T1",
+  "year": 2021,
+  "route": "鐵電記憶體",
+  "maturity": "電路實測",
+  "inst": "University of Virginia Main Campus",
+  "title": "ASCENT: Ferroelectric-based Compute-in-Memory Dynamical Engine (Ferro-CoDE) to Solve Hard Combinatorial Optimization"
+ },
+ {
+  "pid": "NSF-135355",
+  "tier": "T1",
+  "year": 2022,
+  "route": "成熟製程記憶體",
+  "maturity": "晶片流片",
+  "inst": "Washington University | University of California-San Diego",
+  "title": "Collaborative Research: FET: Medium: Energy-Efficient Persistent Learning-in-Memory with Quantum Tunneling Dynamic Synapses"
+ },
+ {
+  "pid": "NSF-137289",
+  "tier": "T1",
+  "year": 2022,
+  "route": "成熟製程記憶體",
+  "maturity": "晶片流片",
+  "inst": "Wayne State University",
+  "title": "An Energy-Efficient, CMOS-based, and Scalable Mixed-Signal DNN System with Reconfigurable Crossbars"
+ },
+ {
+  "pid": "NSF-146726",
+  "tier": "T1",
+  "year": 2023,
+  "route": "鐵電記憶體",
+  "maturity": "晶片流片",
+  "inst": "Northwestern University | Rochester Institute of Tech | University of Notre Dame",
+  "title": "Collaborative Research: CMOS+X: A Device-to-Architecture Co-development and Demonstration of Large-scale Integration of FeFET on CMOS for Emerging Computing Applications"
+ },
+ {
+  "pid": "NSF-144368",
+  "tier": "T1",
+  "year": 2023,
+  "route": "磁性記憶體",
+  "maturity": "晶片流片",
+  "inst": "Stanford University",
+  "title": "ACED Fab: Ultrafast, low-power AI chip with a new class of MRAM for learning and inference at edge"
+ },
+ {
+  "pid": "NSF-147892",
+  "tier": "T1",
+  "year": 2023,
+  "route": "磁性記憶體",
+  "maturity": "晶片流片",
+  "inst": "Arizona State University | Stanford University | Duke University | Johns Hopkins",
+  "title": "Collaborative Research: FuSe: Efficient Situation-Aware AI Processing in Advanced 2-Terminal SOT-MRAM"
+ },
+ {
+  "pid": "NSF-149783",
+  "tier": "T1",
+  "year": 2023,
+  "route": "電阻式記憶體",
+  "maturity": "晶片流片",
+  "inst": "Johns Hopkins University",
+  "title": "CAREER: Efficient, Dynamic, Robust, and On-Device Continual Deep Learning with Non-Volatile Memory based In-Memory Computing System"
+ },
+ {
+  "pid": "NSF-147944",
+  "tier": "T1",
+  "year": 2023,
+  "route": "電阻式記憶體",
+  "maturity": "電路實測",
+  "inst": "University of Illinois at Urbana-Champaign",
+  "title": "FuSe: Co-designing Continual-Learning Edge Architectures with Hetero-Integrated Silicon-CMOS and Electrochemical Random-Access Memory"
+ },
+ {
+  "pid": "NSF-149652",
+  "tier": "T1",
+  "year": 2024,
+  "route": "鐵電記憶體",
+  "maturity": "晶片流片",
+  "inst": "University of Notre Dame",
+  "title": "CAREER: SHF: Bio-Inspired Microsystems for Energy-Efficient Real-Time Sensing, Decision, and Adaptation"
+ },
+ {
+  "pid": "NSF-158153",
+  "tier": "T1",
+  "year": 2024,
+  "route": "成熟製程記憶體",
+  "maturity": "晶片流片",
+  "inst": "Texas A&M Engineering Experiment Station",
+  "title": "FuSe2 Topic 1: Edge Reinforcement Learning with Algorithm, Architecture and Circuit Co-Design"
+ },
+ {
+  "pid": "NSF-155319",
+  "tier": "T1",
+  "year": 2024,
+  "route": "電阻式記憶體",
+  "maturity": "電路實測",
+  "inst": "Washington State University | University of South Alabama",
+  "title": "Collaborative Research: ENG-SEMICON: RUI: Carbohydrate Memristor Empowered Environmentally Sustainable Processor-in-Memory"
+ },
+ {
+  "pid": "NSF-142586",
+  "tier": "T2",
+  "year": 2023,
+  "route": "鐵電記憶體",
+  "maturity": "元件原型",
+  "inst": "Rochester Institute of Tech | Georgia Tech Research Corporation | Pennsylvania S",
+  "title": "Collaborative Research: FET: Medium:Compact and Energy-Efficient Compute-in-Memory Accelerator for Deep Learning Leveraging Ferroelectric Vertical NAND Memory"
+ },
+ {
+  "pid": "NSF-147884",
+  "tier": "T2",
+  "year": 2023,
+  "route": "電阻式記憶體",
+  "maturity": "元件原型",
+  "inst": "Duke University",
+  "title": "FuSe: Co-designed Systems for In-sensor Processing with Sustainable Nanomaterials (COSMIC)"
+ },
+ {
+  "pid": "NSF-139690",
+  "tier": "T2",
+  "year": 2023,
+  "route": "電阻式記憶體",
+  "maturity": "元件原型",
+  "inst": "University of Southern California",
+  "title": "FuSe-TG: Co-design of Attojoule Multifunction Semiconductor Electronics with Atomic Precision"
+ },
+ {
+  "pid": "NSF-140176",
+  "tier": "T2",
+  "year": 2023,
+  "route": "鐵電記憶體",
+  "maturity": "元件原型",
+  "inst": "Rochester Institute of Tech | University of Notre Dame",
+  "title": "CAREER: High-Performance Ferroelectric Memory for In-Memory Computing"
+ },
+ {
+  "pid": "NSF-158150",
+  "tier": "T2",
+  "year": 2024,
+  "route": "鐵電記憶體",
+  "maturity": "元件原型",
+  "inst": "University of Minnesota-Twin Cities",
+  "title": "FuSe2 Topic 1: Co-design of 3D Vertical Back-end-of-line Ferroelectric Memcapacitors and In-Memory Computing Circuits for Extreme Energy Efficiency in Computing"
+ },
+ {
+  "pid": "NSF-150961",
+  "tier": "T2",
+  "year": 2024,
+  "route": "鐵電記憶體",
+  "maturity": "元件原型",
+  "inst": "Purdue University",
+  "title": "FET: Medium: Scalable and Ultra-Low-Power Neural Accelerators based on 2D Ferroelectric Semiconductors (SAFES)"
+ },
+ {
+  "pid": "NSF-158046",
+  "tier": "T2",
+  "year": 2024,
+  "route": "電阻式記憶體",
+  "maturity": "元件原型",
+  "inst": "Goeppert LLC",
+  "title": "STTR Phase I: Ultrascalable Non-volatile Memory with Multifunctionality by MOCVD Direct Growth Two-Dimensional Materials"
+ },
+ {
+  "pid": "NSF-149953",
+  "tier": "T2",
+  "year": 2024,
+  "route": "磁性記憶體",
+  "maturity": "元件原型",
+  "inst": "Stanford University",
+  "title": "PFI-RP: Resilient and Energy-Efficient Memory Chips for Enhanced Mobile AI and Personalized Machine Learning"
+ },
+ {
+  "pid": "NSF-158156",
+  "tier": "T2",
+  "year": 2024,
+  "route": "鐵電記憶體",
+  "maturity": "元件原型",
+  "inst": "Purdue University",
+  "title": "FuSe2 Topic 1: Bridging Atomic Layers and Foundation Models: An Indium-Oxide-Based Versatile Neural Computing Platform"
+ },
+ {
+  "pid": "NSF-158164",
+  "tier": "T2",
+  "year": 2024,
+  "route": "鐵電記憶體",
+  "maturity": "元件原型",
+  "inst": "University of Maryland, College Park",
+  "title": "FuSe2 Topic 3: High-performance & Energy-efficient In-memory Computing Devices with Co-designed 2D Ferroelectric Materials and Stacks"
+ },
+ {
+  "pid": "NSF-147921",
+  "tier": "T2",
+  "year": 2024,
+  "route": "磁性記憶體",
+  "maturity": "元件原型",
+  "inst": "University of Pittsburgh | Northwestern University | University of California-Lo",
+  "title": "Collaborative Research: FuSe: R3AP: Retunable, Reconfigurable, Racetrack-Memory Acceleration Platform"
+ }
+]
